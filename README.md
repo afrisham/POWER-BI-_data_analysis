@@ -1,10 +1,13 @@
 # POWER-BI-_data_analysis
 Power BI Data Analysis Lab
+
 👋 Welcome to my Power BI projects.
+
+
 I don’t just build dashboards — I craft stories from data.
 ✨ Every report here is a declaration of my obsession with clarity, insight, and impact.
 
-⚡ What I Do
+⚡ What I Do:
 
 
 🧹 Data Cleaning & Modeling — shaping raw data into structured truth
